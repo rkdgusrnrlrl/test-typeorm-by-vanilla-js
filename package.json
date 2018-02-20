@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rkdgusrnrlrl/test-typeorm-by-vanilla-js#readme",
   "dependencies": {
+    "pg": "^7.4.1",
     "reflect-metadata": "^0.1.12",
     "typeorm": "^0.1.12"
   }
