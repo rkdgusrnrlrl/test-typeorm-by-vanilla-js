@@ -1,4 +1,4 @@
-import  {User} from "../model/User"
+const User = require("../model/User").User;
 
 module.exports = {
     target : User,
