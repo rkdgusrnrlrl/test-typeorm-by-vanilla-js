@@ -11,7 +11,7 @@ function conection() {
         port : 5432,
         username : "postgres",
         password : "rkd123",
-        database: "test",
+        database: "postgres",
         synchronize: true,
         logging: "all",
         entitySchemas: [
